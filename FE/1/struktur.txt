@@ -1,0 +1,32 @@
+- container
+  - card-1
+  - judul-hasil
+  - box-skor
+    - hasil-skor
+    - skor-max
+  - tingkatan
+  - deskripsi-skor
+
+  - card-2
+    - judul-summary
+    - box-reaction
+    - icon-reaction
+    - text-reaction
+    - nilai-reaction
+    
+    - box-memory
+    - icon-memory
+    - text-memory
+    - nilai-memory
+
+    - box-verbal
+    - icon-verbal
+    - text-verbal
+    - nilai-verbal
+
+    - box-visual
+    - icon-visual
+    - text-visual
+    - nilai-visual
+
+    - button
